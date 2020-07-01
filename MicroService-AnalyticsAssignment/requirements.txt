@@ -1,0 +1,12 @@
+grpcio
+redis~=3.4.1
+googleapis-common-protos
+
+pandas~=1.0.3
+Flask~=1.1.2
+numpy~=1.18.1
+WTForms~=2.2.1
+APScheduler~=3.6.3
+bokeh~=2.0.2
+DateTime~=4.3
+flask_wtf
